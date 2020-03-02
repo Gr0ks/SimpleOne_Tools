@@ -1,0 +1,13 @@
+{
+    "url": "https://bs-dev01.simpleone.ru/v1/ajax-script/run",
+    "headers": [
+        {
+            "par": "authorization",
+            "val": "Bearer MM7BF-9pqwIN780EkKdfMm2XKXYwWRtF"
+        },
+        {
+            "par": "content-type",
+            "val": "application/x-www-form-urlencoded; charset=UTF-8"
+        }
+    ]
+}
