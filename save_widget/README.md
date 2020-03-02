@@ -1,4 +1,9 @@
 This program is simplify the creation of widgets on the SimpleOne platform.
+Run program example:
+.\save_widget.exe
+Widget saving:  OK
+Opening page:  https://bs-dev01.simpleone.ru/record/testing_
+
 
 First, create a widget in the system, save it and display it on the necessary page
 after these steps, configure the program in the config.json file
