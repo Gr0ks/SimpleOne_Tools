@@ -72,7 +72,6 @@ func main() {
 // prepare request data
 	reqBody := new(bytes.Buffer)
 	json.NewEncoder(reqBody).Encode(widgetJsonBody)
-	//reqUrl := 
 // create request	
 	req, err := http.NewRequest("PUT", initData.WidgetUrl, reqBody)
 	req.Header.Set("content-type", "application/json")
