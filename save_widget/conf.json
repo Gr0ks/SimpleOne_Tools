@@ -1,6 +1,6 @@
 {
-    "widgetRestUrl": "https://bs-dev01.simpleone.ru/rest/v1/table/sys_widget/158313163911942189",
-    "widgetInstanceUrl": "https://bs-dev01.simpleone.ru/record/testing_",
+    "widgetRestUrl": "https://bs-dev02.simpleone.ru/rest/v1/table/sys_widget/158506963513423163",
+    "widgetInstanceUrl": "https://bs-dev02.simpleone.ru/record/",
     "auth": {
         "login": "test.test",
         "pass": "123456"

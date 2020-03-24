@@ -100,6 +100,7 @@ func main() {
 		}		
 	} else {
 		fmt.Println("Widget saving: ERROR")
+		fmt.Println(string(body))
 	}
 }
 
